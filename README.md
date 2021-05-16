@@ -1,6 +1,4 @@
-# Copyright-your-Story/Thought-with-Corda
+# Digital Backgroud Verification through Corda
 
-This application protects your story/thought using Blockchain technology "Corda" . Using this application, you can upload your documents and store them in ledger cryptographically. If you would like to share it with your trusted peers at the same time, this application is a solution.
-
-Every event in this life is a story and starts with a story. Story has no boundaries. It can engage with people irrespective of language, nationality. Films, novels and many other entertainments are produced based on a story. It is also important to protect a thought or a story from duplicating or manipulating it by others. If you have a thought or a story to tell, then I have an application to preserve it very strongly. 
-
+It is a mandatory step to verify background status of any employee before entering into a company. For this step, companies may use third party organizations or may sometime needs physical power for verification. The main objective of this application is to avoid third party involvement using "Corda", a DLT and Blockchain technology.
+This application joins all the organizations required for any background verification into one platform. Every organization is interconnected. There by this application ensures any background verification process through digital at your door step.
